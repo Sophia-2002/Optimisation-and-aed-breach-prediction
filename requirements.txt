@@ -1,0 +1,7 @@
+pulp>=2.7,<3
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+jupyter
