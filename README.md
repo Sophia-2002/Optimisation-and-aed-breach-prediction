@@ -62,4 +62,4 @@ python src/management_system.py
 The A&E dataset (`AED4weeks.csv`) was provided for coursework and is **not included**. Part 1 needs no external data.
 
 ---
-**Author:** Yi-Wen (Sophia) Su · [LinkedIn](https://www.linkedin.com/in/yi-wen-su-523a54433)
+**Author:** Sophia Su · [LinkedIn](https://www.linkedin.com/in/yi-wen-su-523a54433)
